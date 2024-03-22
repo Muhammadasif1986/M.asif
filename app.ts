@@ -78,7 +78,8 @@ let rectangle: Shape = {
 // Showing what we described
 console.log(circle); // Here's the circle
 console.log(rectangle); // And here's the rectangle
-// We made a flexible program that can describe different shapes in detail.
+// We made a flexible program that can describe different shapes in deta
+console.log(circle);
 
 
 
